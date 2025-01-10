@@ -124,4 +124,4 @@ npm run dev
 ## Contact
 
 Kanika Barik
-Project Link: [https://github.com/yourusername/dalle-clone](https://github.com/yourusername/dalle-clone)
+Project Link: [https://github.com/yourusername/dalle-clone](https://github.com/Kaniii21/dalle-clone)
